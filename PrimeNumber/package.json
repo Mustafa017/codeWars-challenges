@@ -1,0 +1,18 @@
+{
+  "name": "prime-number-test",
+  "version": "1.0.0",
+  "description": "determine if a number is prime or not",
+  "main": "isPrime.js",
+  "scripts": {
+    "test": "mocha isPrimeTest.js"
+  },
+  "engines": {
+    "node": "8.10.0"
+  },
+  "author": "Mustafa Khamisi",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
